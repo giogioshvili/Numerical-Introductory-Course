@@ -1,12 +1,10 @@
 Name of Quantlet:  "Monte Carlo Simulaiton"
  
-Published in:      "Numerical Introductory Course - Student project on Stocks' Portfolio Risk simulation Using Monte Carlo Methods"
+Published in:      "Numerical Introductory Course - Portfolio Risk Management using Monte Carlo Simulation"
  
 Keywords:          financial, portfolio, returns, asset, time-series, plot
-
-See also:          MVAportfol_IBM_Ford, MVAportfol_IBM_PanAm
   
-Submitted:         Fri, July 025 2017 by Giorgi Gioshvili
+Submitted:         Fri, July 25 2017 by Giorgi Gioshvili
   
 Datafile:          SP500TR.csv, MMM.csv, JNJ.csv, PG.csv, WMT.csv
    
