@@ -2,7 +2,7 @@ Name of Quantlet:  "Monte Carlo Simulaiton"
  
 Published in:      "Numerical Introductory Course - Portfolio Risk Management using Monte Carlo Simulation"
  
-Keywords:          financial, portfolio, returns, asset, time-series, plot
+Keywords:          monte carlo, portfolio, returns, asset, time-series, plot
   
 Submitted:         Fri, July 25 2017 by Giorgi Gioshvili
   
